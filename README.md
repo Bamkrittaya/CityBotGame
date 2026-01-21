@@ -55,18 +55,10 @@ Dodge gaps, time your jumps, and collect **Scrap** to push your score higher as 
 
 ## 🚀 Installation / Play
 
-### Option A — Download Build
+Download Build
 1. Download the latest build from the **Releases** page.
 2. Extract the folder.
 3. Run `IGB100 Cycle 3 Game.exe`
-
-### Option B — Run in Unity
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   ```
-2. Open the project in **Unity Hub**
-3. Press **Play** in the editor
 
 ---
 
