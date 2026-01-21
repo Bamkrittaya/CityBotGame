@@ -9,66 +9,11 @@ Dodge gaps, time your jumps, and collect **Scrap** to push your score higher as 
 
 ---
 
-## 🎞️ Gameplay Highlights (GIFs)
-
-> **Folder setup:** upload these files to `media/gifs/`  
-> ✅ Recommended GIF size: 720p width, <10MB per GIF for fast loading
-
-### 1) Normal run (collecting Scrap)
-
-<p align="center">
-  <img src="media/gifs/01_scrap_collect.gif" width="85%" />
-</p>
-
----
-
-### 2) Move left / right (lane switching)
-
-<p align="center">
-  <img src="media/gifs/02_move_left_right.gif" width="85%" />
-</p>
-
----
-
-### 3) Jump across buildings
-
-<p align="center">
-  <img src="media/gifs/03_jump_gap.gif" width="85%" />
-</p>
-
----
-
-### 4) Evolution: speed up + color changes
-
-<p align="center">
-  <img src="media/gifs/04_speedup_colorchange.gif" width="85%" />
-</p>
-
----
-
-### 5) Slide under obstacle
-
-<p align="center">
-  <img src="media/gifs/05_slide_obstacle.gif" width="85%" />
-</p>
-
----
-
-### 6) Fall / fail → End game score screen
-
-<p align="center">
-  <img src="media/gifs/06_fail_score.gif" width="85%" />
-</p>
-
----
-
 ## 📺 Tutorial Video (YouTube)
 
-> Replace `TUTORIAL_VIDEO_ID_HERE` with your YouTube video ID.
+[![CityBot Tutorial](https://img.youtube.com/vi/_3_gldSWw6c/0.jpg)](https://youtu.be/_3_gldSWw6c)
 
-[![CityBot Tutorial](https://img.youtube.com/vi/TUTORIAL_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=TUTORIAL_VIDEO_ID_HERE)
-
-📌 Click the thumbnail to watch the tutorial on YouTube.
+📌 Click to watch the tutorial on YouTube.
 
 ---
 
@@ -90,8 +35,8 @@ Dodge gaps, time your jumps, and collect **Scrap** to push your score higher as 
 | Action | Key |
 |-------|-----|
 | Jump | `Space` |
-| Move Left / Right | `A` `D` (or Arrow Keys depending on build) |
-| Slide | `Shift` / `Ctrl` *(update based on your build)* |
+| Move Left / Right | `A` `D` |
+| Slide | `S` |
 | Pause | `ESC` |
 
 **Goal:** Survive as long as possible and collect Scrap while running across rooftops.
@@ -113,7 +58,7 @@ Dodge gaps, time your jumps, and collect **Scrap** to push your score higher as 
 ### Option A — Download Build
 1. Download the latest build from the **Releases** page.
 2. Extract the folder.
-3. Run `CityBot.exe`
+3. Run `IGB100 Cycle 3 Game.exe`
 
 ### Option B — Run in Unity
 1. Clone this repository:
